@@ -78,3 +78,34 @@
 //   }
 // }
 // console.log(count);
+
+// hansi ilden oldugu gosterilsin
+
+// let user1 = {
+//   name: "Fidan",
+//   age: 21,
+// };
+// let user2 = {
+//   name: "Nubar",
+//   age: 24,
+// };
+// let user3 = {
+//   name: "Zeyneb",
+//   age: 25,
+// };
+// let user4 = {
+//   name: "Ferid",
+//   age: 17,
+// };
+
+// let users = [user1, user2, user3, user4];
+// let currentYear = 2024;
+// let totalYear = 0;
+// for (const user of users) {
+//   for (const age in user) {
+//     if (age == "age") {
+//       totalYear = currentYear - user[age];
+//     }
+//   }
+//   console.log(totalYear);
+// }
