@@ -109,3 +109,12 @@
 //   }
 //   console.log(totalYear);
 // }
+
+// let year = (age) => {
+//   let currentYear = new Date().getFullYear();
+//   let totalYear = 0;
+//   totalYear = currentYear - age;
+//   console.log(totalYear);
+// };
+
+// year();
